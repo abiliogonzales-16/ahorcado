@@ -107,7 +107,7 @@ def v_ganar():
 v_juego()])
  btn_ok.grid(row=0, column=1, padx=5)
  app.mainloop()
-# -------- Ventana Perdiste --------
+# -------- Venta------------na Perdiste --------
 def v_perder():
  app = ctk.CTk()
  app.title("Perdiste")
